@@ -1,0 +1,2 @@
+{% %} is used to write exec code
+{{ }} is used to specify variables
